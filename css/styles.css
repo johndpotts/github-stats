@@ -8,10 +8,5 @@ body{
   font-family: sans-serif;
    color:#222;
   background-color: #EEEEEE;
-}
-h2,h5{
-  margin-left:50px;
-}
-.holder{
-  margin-left:100px;
+  text-align: center;
 }
